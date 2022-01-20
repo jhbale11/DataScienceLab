@@ -10,8 +10,8 @@ Laboratory for Data Science, Machine Learning, AI
 
 ## Index_Data_Analysis
 - 삼성전자 주가 예측 with ARIMA, Prophet
-- [FRED]경기선행지수 분석
-- [CBOE]VIX 지수 분석
+- [FRED] 경기선행지수 분석
+- [CBOE] VIX 지수 분석
 
 ## Competitive DS
 - "How to win a data science competition" Final Project
